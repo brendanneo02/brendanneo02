@@ -1,4 +1,4 @@
- <div>
+ndy <div>
   <a href="https://github.com/brendanneo02">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendanneo02&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brendanneo02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
@@ -30,6 +30,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/brendanneo02/brendanneo02/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
  
 </div>

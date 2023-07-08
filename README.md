@@ -1,4 +1,4 @@
-ndy <div>
+<div>
   <a href="https://github.com/brendanneo02">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendanneo02&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brendanneo02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
